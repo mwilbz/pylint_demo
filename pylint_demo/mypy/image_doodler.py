@@ -12,4 +12,4 @@ class ImageDoodler(Doodler):
         return Image()
 
     def num_doodles(self, a_positional_argument: int) -> int:
-        return 5
+        return 'six'
