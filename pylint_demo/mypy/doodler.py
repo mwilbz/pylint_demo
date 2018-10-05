@@ -8,7 +8,10 @@ class Paper:
         self.drawings = ''
 
     def draw(self, ascii_drawing: str):
-        self.drawings += ascii_drawing
+        self.drawings += ascii_drawing + '\n'
+
+    def __repr__(self):
+        return self.drawings
 
 
 class Doodler(ABC):

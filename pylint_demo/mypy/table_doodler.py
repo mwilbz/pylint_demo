@@ -4,7 +4,7 @@ from pylint_demo.mypy.doodler import Doodler
 
 TABLE_DOODLES = [
     '(┛ಠ_ಠ)┛彡┻━┻',
-    '┻━┻︵ \(°□°)/ ︵ ┻━┻'
+    '┻━┻︵ \\(°□°)/ ︵ ┻━┻',
     '┬─┬ノ( º _ ºノ)'
 ]
 
